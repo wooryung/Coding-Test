@@ -8,4 +8,4 @@ if (mlist == ascending):
 elif (mlist == descending):
     print("descending")
 else:
-    print("mixed")
+    print("mixed") 
