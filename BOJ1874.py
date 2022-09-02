@@ -1,4 +1,5 @@
 #https://www.acmicpc.net/problem/1874
+#스택, 그리디
 #결과는 맞으나 계속 시간초과가 났다 ㅠ.ㅠ
 import sys
 
