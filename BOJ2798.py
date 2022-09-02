@@ -1,4 +1,5 @@
 #https://www.acmicpc.net/problem/2798
+#배열, 완전 탐색
 #조합을 사용하여 풀이
 from itertools import combinations
 
