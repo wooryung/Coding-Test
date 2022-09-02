@@ -1,3 +1,4 @@
+#https://www.acmicpc.net/problem/2798
 #단순 3중 반복문을 사용하여 풀이
 #순열을 직접 구현하는 경우
 

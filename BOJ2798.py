@@ -1,3 +1,4 @@
+#https://www.acmicpc.net/problem/2798
 #조합을 사용하여 풀이
 from itertools import combinations
 
